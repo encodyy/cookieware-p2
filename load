@@ -68,7 +68,7 @@ local Aiming = getgenv().Aiming
 
 -- // Create circle
 local circle = Drawingnew("Circle")
-circle.Transparency = 4.5
+circle.Transparency = 2.5
 circle.Thickness = 0.6
 circle.Color = Aiming.FOVColour
 circle.Filled = false
